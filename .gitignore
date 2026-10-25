@@ -1,0 +1,15 @@
+main/results/*
+datasets/*
+main/__pycache__
+main/__pycache__/*
+*/__pycache__
+*/__pycache__/*
+*/*/__pycache__
+*/*/__pycache__/*
+*/*/*/__pycache__
+*/*/*/__pycache__/*
+*.csv
+.DS_Store
+results
+requirements.txt
+*.png
